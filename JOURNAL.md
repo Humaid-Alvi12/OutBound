@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 2h | 1 |
+| Week 1 | Tier 2 | 3h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-06 — I set up the project for OutBound and started making the schematic design in KiCad 10. Beacause Waveshare doesn't have a  KiCad symbol file for the ESP32-S3-A7670E-4G board on their wiki, I built a cu
 
-**2h**
+**3h**
 
 I set up the project for OutBound and started making the schematic design in KiCad 10. Beacause Waveshare doesn't have a  KiCad symbol file for the ESP32-S3-A7670E-4G board on their wiki, I built a custom 20-pin symbol from scratch inside the KiCad Symbol Editor.
 
@@ -37,3 +37,5 @@ Pictures:
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7hCWj87Wkg6jPpjXoR4s3HIhyxJN4WGL/acde9796a6db3218b7fe8f9c4cf8d4b50e6b74d76ac4f740a123d6bc307ac36a.png)
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7hCWj87Wkg6jPpjXoR4s3HIhyxJN4WGL/390e5ddc2b71461595db6d570c79195783b17d93bd605d53388a0e70bb0d2820.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7hCWj87Wkg6jPpjXoR4s3HIhyxJN4WGL/9f8a94f13ba9c39b8a1ad5945c7c81aec9bc8e7d8cfda5508426036f32716618.png)
