@@ -25,7 +25,7 @@
 | [2.54mm 1x40 Pin Female Single Row Header Strip](https://robu.in/product/2-54mm-1x40-pin-female-single-row-header-strip-pack-of-10/) | Inter-board electrical connections between PCB layers | 1 | $0.16 | $0.16 | [Robu.in](https://robu.in/product/2-54mm-1x40-pin-female-single-row-header-strip-pack-of-10/) |
 | [M3 x 20mm Male to Female Nylon Hex Standoff Spacer (Pack of 10)](https://robocraze.com/products/40x1-female-berg-strip?variant=40192367689881) | Securing and stacking the dual PCB layers safely | 1 | $0.11 | $0.11 | [Robocraze](https://robocraze.com/products/40x1-female-berg-strip?variant=40192367689881) |
 | **Parts subtotal** | — | — | — | **$39.35** | — |
-| **Tax & shipping** | — | — | — | **$15.00** | — |
-| **Total** | — | — | — | **$54.35** | — |
+| **Tax & shipping** | — | — | — | **$3.00** | — |
+| **Total** | — | — | — | **$42.35** | — |
 
-$10.65 left of the tier's funding.
+$22.65 left of the tier's funding.
