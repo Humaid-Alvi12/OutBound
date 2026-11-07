@@ -31,6 +31,7 @@ Spent 7 hours designing and finalizing the custom two-part enclosure for the han
 
 ### Log 2: Bottom Tray & Export Preparation
 Continued the CAD session by designing and finalizing the matching bottom tray enclosure to house the internal hardware stackup. A 2mm wall thickness was maintained around a hollow interior cavity sized specifically to fit the dual-board PCB stack, LiPo battery, and power routing. Cut a targeted 8.5mm aperture into the bottom floor to align cleanly with the ESP32 camera module lens, and added a side-wall slot engineered for a flat disc thumbwheel potentiometer to protrude by approximately 6mm for easy volume adjustment.
+https://cad.onshape.com/documents/892cb04a474806fd6a7cb1a6/w/259ecdca7f2fcb39c5cd9d02/e/89387e7feaf0c48a9e88656f
 
 ## 🖨️ 3D Models
 <img width="830" height="551" alt="Screenshot 2026-10-18 155206" src="https://github.com/user-attachments/assets/ededfc16-9d9d-4b56-b120-8876433eedaa" />
