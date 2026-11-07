@@ -20,20 +20,21 @@ A compact, custom-built handheld ESP32-S3 cyberdeck featuring a 2.4-inch TFT dis
 <img width="4284" height="5712" alt="IMG_6184" src="https://github.com/user-attachments/assets/03ba7686-620f-4119-bafa-d48511a9e8a5" />
 
 ### Bill of Materials (BOM)
-Item,Qty,Supplier,Cost/item,Total Cost,link
-ESP32-S3 WROOM N16R8 CAM Board + Camera Module,1,Amazon,$16.60,$16.60,https://www.amazon.in/gp/product/B0GW6Y1DDK/ref=ox_sc_act_title_1?smid=A3JNYYPPEEOAVN&psc=1
-3.7V 2500mAh 1S LiPo Battery (WLY104050),1,Robu.in,$7.50,$7.50,https://robu.in/product/wly103443-1500mah-3-7v-single-cell-rechargeable-lipo-battery/
-SmartElex I2S Audio Breakout – MAX98357A,1,Robu.in,$2.30,$2.30,https://robu.in/product/smartelex-i2s-audio-breakout-max98357a/
-TP4056 Type-C 1S LiPo Battery Charger Module,1,Robu.in,$0.23,$0.23,https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c/
-0.9V-5V to 5V DC-DC Step Up Boost Converter Module,1,Robu.in,$0.47,$0.47,https://robu.in/product/1-5v-1-8v-2-5v-3v-3-3v-3-7v-4-2v-to-5v-dc-dc-dc-boost-converter-module-step-up-board/
-2.4 inch SPI Interface 240x320 TFT Colour Display Module,1,Robu.in,$8.20,$8.20,https://robu.in/product/2-4-inch-spi-interface-240x320-touch-screen-tft-display-module/
-MAX7219 Dot LED Matrix Module MCU Control LED Display Module,1,Robocraze,$1.37,$1.37,https://robocraze.com/products/max7219-8x8-led-dot-matrix-display-module?variant=43348990853344&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=googleads&utm_medium=ppc&utm_campaign=24278183182&utm_content=_&utm_term=&campaignid=24278183182&adgroupid=&campaign=24278183182&gad_source=1&gad_campaignid=24267167718&gbraid=0AAAAADgHQvZA3kSC0BdohPk3HXwHr3SMg&gclid=CjwKCAjwrbfWBhAeEiwAc2e6Pt1Ycv91-PNdpT6rYi0BokZNwW7xKdJ3gTRkzbxrhZ45DrJoZkD0wRoCVPMQAvD_BwE
-Tactile Push Button Switch 6x6x5 (Pack of 10),1,Robu.in,$0.23,$0.23,https://robu.in/product/6x6x5-tactile-push-button-switch/
-B103 10K Ohm Dial / Thumbwheel Potentiometer,2,Probots.in,$0.50,$1.00,https://probots.co.in/b103-10k-16mm-thumbwheel-dial-potentiometer.html
-8 Ohm 1W 1510 MM Oval Mini Audio Speaker,2,Probots.in,$0.59,$1.18,https://probots.co.in/8-ohm-1w-1510-mm-oval-mini-audio-speaker.html
-2.54mm 1x40 Pin Female Single Row Header Strip,1,Robu.in,$0.16,$0.16,https://robu.in/product/2-54mm-1x40-pin-female-single-row-header-strip-pack-of-10/
-M3 x 20mm Male to Female Nylon Hex Standoff Spacer (Pack of 10),1,Robocraze,$0.11,$0.11,https://robocraze.com/products/40x1-female-berg-strip?variant=40192367689881
-Estimated total shipping,1,,,,$5.00
+| Item | Qty | Supplier | Cost/item | Total Cost | Link |
+| :--- | :---: | :--- | :---: | :---: | :--- |
+| ESP32-S3 WROOM N16R8 CAM Board | 1 | Amazon | $16.60 | $16.60 | [Link](https://www.amazon.in/gp/product/B0GW6Y1DDK) |
+| 3.7V 2500mAh 1S LiPo Battery | 1 | Robu.in | $7.50 | $7.50 | [Link](https://robu.in/product/wly103443-1500mah-3-7v-single-cell-rechargeable-lipo-battery/) |
+| SmartElex I2S Audio Breakout – MAX98357A | 1 | Robu.in | $2.30 | $2.30 | [Link](https://robu.in/product/smartelex-i2s-audio-breakout-max98357a/) |
+| TP4056 Type-C 1S LiPo Charger | 1 | Robu.in | $0.23 | $0.23 | [Link](https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c/) |
+| 0.9V-5V to 5V DC-DC Step Up Boost Converter | 1 | Robu.in | $0.47 | $0.47 | [Link](https://robu.in/product/1-5v-1-8v-2-5v-3v-3-3v-3-7v-4-2v-to-5v-dc-dc-dc-boost-converter-module-step-up-board/) |
+| 2.4 inch SPI Interface 240x320 TFT Display | 1 | Robu.in | $8.20 | $8.20 | [Link](https://robu.in/product/2-4-inch-spi-interface-240x320-touch-screen-tft-display-module/) |
+| MAX7219 Dot LED Matrix Module | 1 | Robocraze | $1.37 | $1.37 | [Link](https://robocraze.com/products/max7219-8x8-led-dot-matrix-display-module) |
+| Tactile Push Button Switch 6x6x5 | 1 | Robu.in | $0.23 | $0.23 | [Link](https://robu.in/product/6x6x5-tactile-push-button-switch/) |
+| B103 10K Ohm Dial / Potentiometer | 2 | Probots.in | $0.50 | $1.00 | [Link](https://probots.co.in/b103-10k-16mm-thumbwheel-dial-potentiometer.html) |
+| 8 Ohm 1W 1510 MM Oval Mini Speaker | 2 | Probots.in | $0.59 | $1.18 | [Link](https://probots.co.in/8-ohm-1w-1510-mm-oval-mini-audio-speaker.html) |
+| 2.54mm 1x40 Pin Female Header Strip | 1 | Robu.in | $0.16 | $0.16 | [Link](https://robu.in/product/2-54mm-1x40-pin-female-single-row-header-strip-pack-of-10/) |
+| M3 x 20mm Nylon Standoff Spacer | 1 | Robocraze | $0.11 | $0.11 | [Link](https://robocraze.com/products/40x1-female-berg-strip) |
+| Estimated total shipping | 1 | - | - | $5.00 | - |
 
 OutBound Cyberdeck 🚀
 
